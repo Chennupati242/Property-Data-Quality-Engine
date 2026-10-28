@@ -1,0 +1,44 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Test and tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# Local database
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Generated reports
+reports/*.csv
+reports/*.xlsx
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Generated database and reports
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+reports/
+
+# Python test artifacts
+.coverage
+htmlcov/

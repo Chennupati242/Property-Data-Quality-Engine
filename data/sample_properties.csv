@@ -1,0 +1,12 @@
+
+property_id,city,year_built,construction_type,occupancy,insured_value_inr,roof_type
+P001,Hyderabad,2015,Concrete,Residential,5000000,Concrete
+P002,Chennai,2090,Brick,Residential,3000000,Tile
+P003,Mumbai,2008,Concrete,Commercial,,Concrete
+P004,Pune,2012,Steel,Commercial,-1000000,Metal
+P005,Hyderabad,1998,Brick,Residential,2500000,Tile
+P005,Delhi,2005,Concrete,Residential,4000000,Concrete
+P007,Bengaluru,2010,,Residential,3500000,Tile
+P008,Kolkata,2018,Concrete,Unknown,6000000,Concrete
+P009,Jaipur,2001,Brick,Residential,1800000,Tile
+P010,Chennai,2016,Concrete,Commercial,7500000,Concrete
